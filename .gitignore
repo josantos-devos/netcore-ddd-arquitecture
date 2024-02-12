@@ -1,0 +1,12 @@
+
+src/Application/bin
+src/Application/obj
+src/Domain/bin
+src/Domain/obj
+src/Infraestructure/bin
+src/Infraestructure/obj
+src/Web.API/bin
+src/Web.API/obj
+
+tests/UnitTests/Application.Customers.UnitTests/bin
+tests/UnitTests/Application.Customers.UnitTests/obj
